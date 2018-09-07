@@ -1,1 +1,1 @@
-# DeepLearning with ML.Net
+# Deep Learning with ML.Net
